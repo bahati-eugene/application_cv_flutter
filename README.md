@@ -1,6 +1,10 @@
 ﻿## Démonstration vidéo (TP2 - API REST & Authentification)
 
-[Cliquez ici pour voir la vidéo de démonstration avec son (TP2)](demo/demo_tp2.mp4)
+
+
+https://github.com/user-attachments/assets/14bd571d-021f-466a-baf2-04e5434aeb80
+
+
 
 # Application Mobile CV - Flutter (`cv_flutter_eugene`)
 
