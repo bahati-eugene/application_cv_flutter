@@ -2,10 +2,6 @@
 
 [Cliquez ici pour voir la vidéo de démonstration avec son (TP2)](demo/demo_tp2.mp4)
 
-## Démonstration vidéo (TP2 - API REST & Authentification)
-
-[Cliquez ici pour voir la vidéo de démonstration (TP2)](demo/demo_tp2.mp4)
-
 # Application Mobile CV - Flutter (`cv_flutter_eugene`)
 
 Application mobile dÃ©veloppÃ©e avec **Flutter** par **BAHATI IRUMVA EUGENE** (Ã‰tudiant en Licence 3 â€“ Informatique AppliquÃ©e Ã  la Gestion des Entreprises Ã  l'**ISIG Goma**).
