@@ -1,5 +1,9 @@
 ﻿## Démonstration vidéo (TP2 - API REST & Authentification)
 
+[Cliquez ici pour voir la vidéo de démonstration avec son (TP2)](demo/demo_tp2.mp4)
+
+## Démonstration vidéo (TP2 - API REST & Authentification)
+
 [Cliquez ici pour voir la vidéo de démonstration (TP2)](demo/demo_tp2.mp4)
 
 # Application Mobile CV - Flutter (`cv_flutter_eugene`)
@@ -43,4 +47,5 @@ Application mobile dÃ©veloppÃ©e avec **Flutter** par **BAHATI IRUMVA EUGENE*
 | Contact (Partie 1) | Contact (Partie 2) |
 | :---: | :---: |
 | ![Contact 1](screenshots/contatct1.jpg) | ![Contact 2](screenshots/contatct_suite2.jpg) |
+
 
