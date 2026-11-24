@@ -1,16 +1,20 @@
+﻿## Démonstration vidéo (TP2 - API REST & Authentification)
+
+[Cliquez ici pour voir la vidéo de démonstration (TP2)](demo/demo_tp2.mp4)
+
 # Application Mobile CV - Flutter (`cv_flutter_eugene`)
 
-Application mobile développée avec **Flutter** par **BAHATI IRUMVA EUGENE** (Étudiant en Licence 3 – Informatique Appliquée à la Gestion des Entreprises à l'**ISIG Goma**).
+Application mobile dÃ©veloppÃ©e avec **Flutter** par **BAHATI IRUMVA EUGENE** (Ã‰tudiant en Licence 3 â€“ Informatique AppliquÃ©e Ã  la Gestion des Entreprises Ã  l'**ISIG Goma**).
 
-## Pages réalisées
-1. **Page de connexion** : Formulaire sécurisé avec identifiant, mot de passe masqué et bouton « Se connecter ».
-2. **Page d'accueil (CV)** : Photo, identité, profil, formation à l'ISIG Goma, expériences, compétences techniques, langues et centres d'intérêt.
-3. **Page Famille** : Liste des membres de la famille (Claude, Ange, Innocent, Josephine, Theo, Divine, Kadere) présentée avec `ListView` et `Card`.
-4. **Page Contact** : Numéros de téléphone (`+243 980576900`, `+243 903886201`), e-mail (`marloweugene2000@gmail.com`), adresse à Goma et réseaux sociaux cliquables (`url_launcher`).
+## Pages rÃ©alisÃ©es
+1. **Page de connexion** : Formulaire sÃ©curisÃ© avec identifiant, mot de passe masquÃ© et bouton Â« Se connecter Â».
+2. **Page d'accueil (CV)** : Photo, identitÃ©, profil, formation Ã  l'ISIG Goma, expÃ©riences, compÃ©tences techniques, langues et centres d'intÃ©rÃªt.
+3. **Page Famille** : Liste des membres de la famille (Claude, Ange, Innocent, Josephine, Theo, Divine, Kadere) prÃ©sentÃ©e avec `ListView` et `Card`.
+4. **Page Contact** : NumÃ©ros de tÃ©lÃ©phone (`+243 980576900`, `+243 903886201`), e-mail (`marloweugene2000@gmail.com`), adresse Ã  Goma et rÃ©seaux sociaux cliquables (`url_launcher`).
 
 ---
 
-## Captures d'écran de l'application
+## Captures d'Ã©cran de l'application
 
 ### 1. Page de Connexion
 
@@ -39,3 +43,4 @@ Application mobile développée avec **Flutter** par **BAHATI IRUMVA EUGENE** (�
 | Contact (Partie 1) | Contact (Partie 2) |
 | :---: | :---: |
 | ![Contact 1](screenshots/contatct1.jpg) | ![Contact 2](screenshots/contatct_suite2.jpg) |
+
